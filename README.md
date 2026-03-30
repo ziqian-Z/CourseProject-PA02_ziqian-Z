@@ -9,11 +9,16 @@ This project implements a simple movie-sorting system in C++. The main goal is t
 # Repository Structure
 
 The repository contains multiple input files, compiled outputs, and supporting files used for testing and development. These include:
-	- Input datasets (.csv files) for testing sorting behavior
-	- Source files (.cpp, .h)
-	- Compiled object files (.o)
-	- Additional text files for testing different input sizes
+	 
+	 Input datasets (.csv files) for testing sorting behavior
+	 
+	 Source files (.cpp, .h)
+	 
+	 Compiled object files (.o)
+	 
+	 Additional text files for testing different input sizes
 
 # Notes
-	- The project focuses on sorting logic and data handling.
-	- Various input sizes are provided to evaluate performance and correctness.
+	 The project focuses on sorting logic and data handling.
+	 
+	 Various input sizes are provided to evaluate performance and correctness.
