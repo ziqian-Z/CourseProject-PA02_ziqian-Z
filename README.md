@@ -3,11 +3,8 @@
 This project implements a simple movie-sorting system in C++. The main goal is to organize a list of movies in alphabetical order using custom logic and supporting helper functions.
 
 # Files Description
-	•	movies.cpp
-Contains the main implementation for sorting movies in alphabetical order.
-
-	•	movies.h
-Includes helper functions and declarations used by movies.cpp.
+- `movies.cpp`: contains the main implementation for sorting movies in alphabetical order.
+- `movies.h`: includes helper functions and declarations used by movies.cpp.
 
 # Repository Structure
 
